@@ -37,6 +37,7 @@ export const apis: AnyApiFactory[] = [
 3. Configure the plugin in your `app-config.yaml`:
 
 ```yaml
+app:
   analytics:
     umami:
       enabled: true
