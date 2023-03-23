@@ -21,7 +21,7 @@ import {
   configApiRef,
   identityApiRef,
 } from '@backstage/core-plugin-api';
-import { UmamiAnalytics } from '@backstage/plugin-analytics-module-umami';
+import { UmamiAnalytics } from '@belech/plugin-analytics-module-umami';
 
 export const apis: AnyApiFactory[] = [
   // Instantiate and register the GA Analytics API Implementation.
