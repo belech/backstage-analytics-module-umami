@@ -9,7 +9,7 @@ This plugin provides an opinionated implementation of the Backstage Analytics AP
 ```sh
 # From your Backstage root directory
 
-yarn add --cwd packages/app @belech/plugin-analytics-module-ga
+yarn add --cwd packages/app @belech/plugin-analytics-module-umami
 ```
 
 2. Wire up the API implementation to your App:
