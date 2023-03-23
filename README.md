@@ -53,7 +53,7 @@ For generating the API token, see the [umami documentation](https://umami.is/doc
 
 ## Caveats
 
-The event tracking is very rudemantary, as the original purpose of this plugin was just to get a feeling how users navigate through Backstage, as well as umami does not have much options for this.
+The event tracking is very rudemantary, as the original purpose of this plugin was just to get a feeling how users navigate through Backstage, as well as umami does not have much options for more advanced tracking.
 
 ## Local development
 
