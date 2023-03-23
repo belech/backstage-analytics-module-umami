@@ -62,13 +62,12 @@ For testing / local development an umami instance needs to be started like descr
 A very easy setup would be through docker-compose:
 
 ```yaml
----
 version: '3'
 services:
   umami:
     image: ghcr.io/umami-software/umami:postgresql-latest
     ports:
-      - "4000:4000"
+      - "4000:3000"
     environment:
       DATABASE_URL: postgresql://umami:umami@db:5432/umami
       DATABASE_TYPE: postgresql
