@@ -1,4 +1,4 @@
-# Analytics Module: Umami Analytics
+# Backstage Analytics Module: Umami Analytics
 
 This plugin provides an opinionated implementation of the Backstage Analytics API for [umami](https://umami.is/).
 
