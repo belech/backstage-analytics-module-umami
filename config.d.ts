@@ -16,7 +16,7 @@ export interface Config {
 
         /**
          * Umami Analytics Auth Bearer Token
-         * @visibility secret
+         * @visibility frontend
          */   
         authToken: string;
 
